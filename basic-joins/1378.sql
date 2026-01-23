@@ -1,0 +1,12 @@
+# 1378. Replace Employee ID With The Unique Identifier
+
+# Write your MySQL query statement below
+SELECT 
+    eu.unique_id, 
+    e.name
+FROM 
+    employees e
+LEFT JOIN 
+    employeeuni eu 
+ON 
+    e.id = eu.id;
