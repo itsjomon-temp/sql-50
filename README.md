@@ -26,5 +26,17 @@ This repository contains **MySQL** solutions for LeetCode's [**SQL 50 Study Plan
 | 570 | Medium | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-joins/570.sql) |
 | 1934 | Medium | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-joins/1934.sql) |
 
+### Basic Aggregate Functions
+| # | Difficulty | Problem | Solution |
+|---|------------|---------|----------|
+| 620 | Easy | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/620.sql) |
+| 1251 | Easy | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/1251.sql) |
+| 1075 | Easy | [Project Employees I](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/1075.sql) |
+| 1633 | Easy | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/1633.sql) |
+| 1211 | Easy | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/1211.sql) |
+| 1193 | Medium | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/1193.sql) |
+| 1174 | Medium | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/1174.sql) |
+| 550 | Medium | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/550.sql) |
+
 ## License
 Licensed under the [MIT License](LICENSE). 
