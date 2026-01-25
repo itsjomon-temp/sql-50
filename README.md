@@ -38,5 +38,16 @@ This repository contains **MySQL** solutions for LeetCode's [**SQL 50 Study Plan
 | 1174 | Medium | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/1174.sql) |
 | 550 | Medium | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/550.sql) |
 
+### Sorting and Grouping
+| # | Difficulty | Problem | Solution |
+|---|------------|---------|----------|
+| 2356 | Easy | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](sorting-and-grouping/2356.sql) |
+| 1141 | Easy | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](sorting-and-grouping/1141.sql) |
+| 1070 | Medium | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](sorting-and-grouping/1070.sql) |
+| 596 | Easy | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](sorting-and-grouping/596.sql) |
+| 1729 | Easy | [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](sorting-and-grouping/1729.sql) |
+| 619 | Easy | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](sorting-and-grouping/619.sql) |
+| 1045 | Medium | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/?envType=study-plan-v2&envId=top-sql-50) | [Code](sorting-and-grouping/1045.sql) |
+
 ## License
 Licensed under the [MIT License](LICENSE). 
