@@ -1,0 +1,16 @@
+# 619. Biggest Single Number
+
+# Write your MySQL query statement below
+SELECT 
+    MAX(num) AS num
+FROM 
+(
+    SELECT 
+        num
+    FROM 
+        Mynumbers
+    GROUP BY 
+        num
+    HAVING 
+        COUNT(num) = 1
+) AS new_table;
