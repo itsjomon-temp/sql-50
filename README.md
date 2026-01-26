@@ -49,5 +49,16 @@ This repository contains **MySQL** solutions for LeetCode's [**SQL 50 Study Plan
 | 619 | Easy | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](sorting-and-grouping/619.sql) |
 | 1045 | Medium | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/?envType=study-plan-v2&envId=top-sql-50) | [Code](sorting-and-grouping/1045.sql) |
 
+### Advanced Select and Joins
+| # | Difficulty | Problem | Solution |
+|---|------------|---------|----------|
+| 1731 | Easy | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-select-and-joins/1731.sql) |
+| 1789 | Easy | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-select-and-joins/1789.sql) |
+| 610 | Easy | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-select-and-joins/610.sql) |
+| 180 | Medium | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-select-and-joins/180.sql) |
+| 1164 | Medium | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-select-and-joins/1164.sql) |
+| 1204 | Medium | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-select-and-joins/1204.sql) |
+| 1907 | Medium | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-select-and-joins/1907.sql) |
+
 ## License
 Licensed under the [MIT License](LICENSE). 
