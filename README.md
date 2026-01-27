@@ -1,10 +1,13 @@
 # SQL 50
+
 This repository contains **MySQL** solutions for LeetCode's [**SQL 50 Study Plan**](https://leetcode.com/studyplan/top-sql-50/), a curated list of problems to improve SQL query writing and database understanding.
 
 ## Problem List
+
 > _✨ This table will grow as new solutions are added._
 
 ### Select
+
 | # | Difficulty | Problem | Solution |
 |---|------------|---------|----------|
 | 1757 | Easy | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](select/1757.sql) |
@@ -14,6 +17,7 @@ This repository contains **MySQL** solutions for LeetCode's [**SQL 50 Study Plan
 | 1683 | Easy | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](select/1683.sql) |
 
 ### Basic Joins
+
 | # | Difficulty | Problem | Solution |
 |---|------------|---------|----------|
 | 1378 | Easy | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-joins/1378.sql) |
@@ -27,6 +31,7 @@ This repository contains **MySQL** solutions for LeetCode's [**SQL 50 Study Plan
 | 1934 | Medium | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-joins/1934.sql) |
 
 ### Basic Aggregate Functions
+
 | # | Difficulty | Problem | Solution |
 |---|------------|---------|----------|
 | 620 | Easy | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/620.sql) |
@@ -39,6 +44,7 @@ This repository contains **MySQL** solutions for LeetCode's [**SQL 50 Study Plan
 | 550 | Medium | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](basic-aggregate-functions/550.sql) |
 
 ### Sorting and Grouping
+
 | # | Difficulty | Problem | Solution |
 |---|------------|---------|----------|
 | 2356 | Easy | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](sorting-and-grouping/2356.sql) |
@@ -50,6 +56,7 @@ This repository contains **MySQL** solutions for LeetCode's [**SQL 50 Study Plan
 | 1045 | Medium | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/?envType=study-plan-v2&envId=top-sql-50) | [Code](sorting-and-grouping/1045.sql) |
 
 ### Advanced Select and Joins
+
 | # | Difficulty | Problem | Solution |
 |---|------------|---------|----------|
 | 1731 | Easy | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-select-and-joins/1731.sql) |
@@ -60,5 +67,18 @@ This repository contains **MySQL** solutions for LeetCode's [**SQL 50 Study Plan
 | 1204 | Medium | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-select-and-joins/1204.sql) |
 | 1907 | Medium | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-select-and-joins/1907.sql) |
 
+### Subqueries
+
+| # | Difficulty | Problem | Solution |
+|---|------------|---------|----------|
+| 1978 | Easy | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50) | [Code](subqueries/1978.sql) |
+| 626 | Medium | [Exchange Seats](https://leetcode.com/problems/exchange-seats/?envType=study-plan-v2&envId=top-sql-50) | [Code](subqueries/626.sql) |
+| 1341 | Medium | [Movie Rating](https://leetcode.com/problems/movie-rating/?envType=study-plan-v2&envId=top-sql-50) | [Code](subqueries/1341.sql) |
+| 1321 | Medium | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/?envType=study-plan-v2&envId=top-sql-50) | [Code](subqueries/1321.sql) |
+| 602 | Medium | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/?envType=study-plan-v2&envId=top-sql-50) | [Code](subqueries/602.sql) |
+| 585 | Medium | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/?envType=study-plan-v2&envId=top-sql-50) | [Code](subqueries/585.sql) |
+| 185 | Hard | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/?envType=study-plan-v2&envId=top-sql-50) | [Code](subqueries/185.sql) |
+
 ## License
+
 Licensed under the [MIT License](LICENSE). 
