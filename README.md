@@ -4,8 +4,6 @@ This repository contains **MySQL** solutions for LeetCode's [**SQL 50 Study Plan
 
 ## Problem List
 
-> _✨ This table will grow as new solutions are added._
-
 ### Select
 
 | # | Difficulty | Problem | Solution |
@@ -78,6 +76,18 @@ This repository contains **MySQL** solutions for LeetCode's [**SQL 50 Study Plan
 | 602 | Medium | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/?envType=study-plan-v2&envId=top-sql-50) | [Code](subqueries/602.sql) |
 | 585 | Medium | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/?envType=study-plan-v2&envId=top-sql-50) | [Code](subqueries/585.sql) |
 | 185 | Hard | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/?envType=study-plan-v2&envId=top-sql-50) | [Code](subqueries/185.sql) |
+
+### Advanced String Functions / Regex / Clause
+
+| # | Difficulty | Problem | Solution |
+|---|------------|---------|----------|
+| 1667 | Easy | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-string-functions-regex-clause/1667.sql) |
+| 1527 | Easy | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-string-functions-regex-clause/1527.sql) |
+| 196 | Easy | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-string-functions-regex-clause/196.sql) |
+| 176 | Medium | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-string-functions-regex-clause/176.sql) |
+| 1484 | Easy | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-string-functions-regex-clause/1484.sql) |
+| 1327 | Easy | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-string-functions-regex-clause/1327.sql) |
+| 1517 | Easy | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/?envType=study-plan-v2&envId=top-sql-50) | [Code](advanced-string-functions-regex-clause/1517.sql) |
 
 ## License
 
